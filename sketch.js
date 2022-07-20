@@ -7,7 +7,7 @@ function preload(){
   
 
   
-  shipImg1 = loadAnimation("ship-1.png","ship-2.png");
+  shipImg = loadAnimation("ship-1.png","ship-2.png");
   
   
   seaImg = loadImage("sea.png");
